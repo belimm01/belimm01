@@ -1,38 +1,36 @@
 # Mykyta Belimenko
 
-**Senior Software & Platform Engineer** building production systems across two complementary tracks: full-stack product engineering and internal developer platforms.
+**Senior Software & Platform Engineer** building reliable product systems and internal developer platforms.
 
-I work end to end—from domain design, APIs, event-driven services, and modern web applications to Kubernetes delivery, cloud infrastructure, observability, and the paved roads used by engineering teams. My focus is reliable systems, clear contracts, and reducing the operational cost of shipping software.
+I work across architecture, hands-on implementation, delivery, and production operations—from Java and TypeScript services and modern web applications to Kubernetes platforms, GitOps, observability, and developer self-service. Professionally, I help build platform capabilities used by approximately 80 engineering teams.
 
-[LinkedIn](https://www.linkedin.com/in/mbelimenko/)
+**Start here:** [Platform Blueprint](https://github.com/belimm01/platform-blueprint) for platform engineering · [Relay](https://github.com/belimm01/relay) for full-stack and distributed systems
 
-## Full-stack engineering
+[LinkedIn](https://www.linkedin.com/in/mbelimenko/) · Prague, Czechia · Fully remote from Czechia
 
-- **Backend:** Java 21, Spring Boot, Node.js, Express, Python/Flask, REST, Kafka/Avro
-- **Frontend:** TypeScript, React, Vue 3, Vite, micro-frontends
-- **Data:** PostgreSQL/SQL, MongoDB, Redis, Elasticsearch
-- **Engineering:** domain modeling, concurrency, idempotency, API security, testing, CI/CD
+## Selected work
 
-### Selected work
+### Platform engineering and developer experience
 
-- **[Relay](https://github.com/belimm01/relay)** — self-hosted webhook gateway with durable delivery, retries, replay, filtering, WebSockets, Java 21/Spring Boot, PostgreSQL, and Vue 3.
-- **[Vigil](https://github.com/belimm01/vigil)** — synthetic uptime and performance monitoring with incident state management, anomaly detection, multi-step journeys, TypeScript, React, and PostgreSQL.
-- **[Changelog Studio](https://github.com/belimm01/changelog-studio)** — full-stack release-note workflow with a framework-independent domain core, typed API, React client, and CI.
-- **[Platform Blueprint](https://github.com/belimm01/platform-blueprint)** — reference internal developer platform with Go, Kubernetes, Crossplane, Argo CD, GitOps, policy guardrails, and reproducible local workflows.
+- **[Platform Blueprint](https://github.com/belimm01/platform-blueprint)** — reproducible reference internal developer platform using Go, Kubernetes, Crossplane, Argo CD, GitOps, and policy guardrails. Includes platform APIs, architecture decisions, and a local evaluation path.
 - **[Recap](https://github.com/belimm01/recap)** — developer-productivity CLI that turns GitLab and Jira activity into a structured, paste-ready standup digest.
 
-## Platform engineering
+### Full-stack and distributed systems
 
-- **Cloud and runtime:** AWS, EKS, Kubernetes, Helm, Docker
-- **Platform APIs:** Crossplane, Go, reusable service and infrastructure abstractions
-- **Delivery:** Argo CD, Tekton, GitLab CI/CD, GitHub Actions
-- **Operations:** Prometheus, OpenTelemetry, APM, SLOs, resource and cost optimization
+- **[Relay](https://github.com/belimm01/relay)** — self-hosted webhook gateway with durable delivery, idempotency, bounded retries, replay, observability, Java 21, Spring Boot, PostgreSQL, and Vue 3.
+- **[Vigil](https://github.com/belimm01/vigil)** — synthetic monitoring platform with incident state management, anomaly detection, multi-step journeys, TypeScript, React, PostgreSQL, and Kubernetes deployment artifacts.
+- **[Changelog Studio](https://github.com/belimm01/changelog-studio)** — release-note workflow with a framework-independent typed domain core, REST API, React client, conventional-commit ingestion, tests, and CI.
 
-My platform work includes internal developer platform capabilities used across dozens of engineering teams: repository onboarding, image builds, Kubernetes delivery, reusable infrastructure APIs, observability integrations, and workload optimization. A reproducible public reference implementation is maintained in **[Platform Blueprint](https://github.com/belimm01/platform-blueprint)**.
+## Core stack
 
-## How I work
+- **Languages:** Java, Go, TypeScript, JavaScript, Python
+- **Backend:** Spring Boot, Node.js, Express, REST, Kafka, Avro
+- **Frontend:** React, Vue 3, Vite, micro-frontends
+- **Platform:** AWS, EKS, Kubernetes, Crossplane, Helm, Argo CD, Tekton, GitLab CI/CD
+- **Data and operations:** PostgreSQL, MongoDB, Redis, Elasticsearch, Prometheus, OpenTelemetry
 
-- Treat platform capabilities as products with users, contracts, and measurable outcomes.
-- Make reliability explicit through idempotency, bounded retries, health checks, SLOs, and runbooks.
-- Keep architecture decisions reviewable with focused ADRs and executable examples.
-- Prefer small, well-tested cores and automation that can be reproduced locally.
+## Engineering approach
+
+- Design platforms as products with clear users, contracts, guardrails, and self-service paths.
+- Make failure behavior explicit through idempotency, bounded retries, health checks, observability, and runbooks.
+- Keep architecture reviewable with focused ADRs, executable examples, automated tests, and reproducible local workflows.
