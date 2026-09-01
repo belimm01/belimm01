@@ -18,6 +18,8 @@ I work end to end—from domain design, APIs, event-driven services, and modern 
 - **[Relay](https://github.com/belimm01/relay)** — self-hosted webhook gateway with durable delivery, retries, replay, filtering, WebSockets, Java 21/Spring Boot, PostgreSQL, and Vue 3.
 - **[Vigil](https://github.com/belimm01/vigil)** — synthetic uptime and performance monitoring with incident state management, anomaly detection, multi-step journeys, TypeScript, React, and PostgreSQL.
 - **[Changelog Studio](https://github.com/belimm01/changelog-studio)** — full-stack release-note workflow with a framework-independent domain core, typed API, React client, and CI.
+- **[Platform Blueprint](https://github.com/belimm01/platform-blueprint)** — reference internal developer platform with Go, Kubernetes, Crossplane, Argo CD, GitOps, policy guardrails, and reproducible local workflows.
+- **[Recap](https://github.com/belimm01/recap)** — developer-productivity CLI that turns GitLab and Jira activity into a structured, paste-ready standup digest.
 
 ## Platform engineering
 
