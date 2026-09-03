@@ -2,7 +2,7 @@
 
 **Senior Full-Stack Engineer** building reliable web products and distributed systems with Java, Node.js, TypeScript, React, and Vue.
 
-I own systems across architecture, backend and frontend implementation, delivery, and production operations. My platform-engineering background in AWS, Kubernetes, GitOps, observability, and developer self-service helps me build applications that remain operable after they ship. Professionally, I contribute to platform capabilities used by approximately 80 engineering teams.
+I work across architecture, backend and frontend implementation, delivery, and production operations. My platform-engineering background in AWS, Kubernetes, GitOps, observability, and developer self-service helps me build applications that remain operable after they ship. Professionally, I contribute to platform capabilities used by approximately 80 engineering teams.
 
 **Start here:** [Relay](https://github.com/belimm01/relay) for Java, Spring Boot, Vue, and distributed delivery · [Vigil](https://github.com/belimm01/vigil) for TypeScript, React, monitoring, and incident workflows
 
