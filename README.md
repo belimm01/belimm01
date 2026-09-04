@@ -29,6 +29,7 @@ I work across architecture, backend and frontend implementation, delivery, and p
 
 ## Engineering approach
 
+- Use GitHub Copilot, Claude Code, and OpenAI Codex for codebase exploration, implementation, testing, and review, while keeping architecture decisions and final verification my responsibility.
 - Keep domain behavior independent from transport and UI frameworks.
 - Treat retries, idempotency, authorization, observability, and rollback as product requirements.
 - Ship reviewable changes with executable tests, reproducible local workflows, and production-oriented deployment artifacts.
