@@ -4,9 +4,13 @@
 
 I work across architecture, backend and frontend implementation, delivery, and production operations. My platform-engineering background in AWS, Kubernetes, GitOps, observability, and developer self-service helps me build applications that remain operable after they ship. Professionally, I contribute to platform capabilities used by approximately 80 engineering teams.
 
-**Start here:** [Relay](https://github.com/belimm01/relay) for Java, Spring Boot, Vue, and distributed delivery · [Vigil](https://github.com/belimm01/vigil) for TypeScript, React, monitoring, and incident workflows
+**Start here:** [ChangeGuard AI](https://github.com/belimm01/changeguard-ai) for Python, FastAPI, and evidence-backed PR analysis · [Relay](https://github.com/belimm01/relay) for Java, Spring Boot, Vue, and distributed delivery · [Vigil](https://github.com/belimm01/vigil) for TypeScript, React, monitoring, and incident workflows
 
 [LinkedIn](https://www.linkedin.com/in/mbelimenko/) · Prague, Czechia · Fully remote from Czechia
+
+## AI-enabled developer tooling
+
+- **[ChangeGuard AI](https://github.com/belimm01/changeguard-ai)** — advisory pull-request change-impact analyzer. Deterministic rules (Python deps, OpenAPI, Avro, Kubernetes) produce evidence-backed findings; a grounded LLM layer with citation validation and an MCP server are in progress. Python 3.13, FastAPI, Pydantic, PostgreSQL, strict mypy.
 
 ## Selected full-stack work
 
