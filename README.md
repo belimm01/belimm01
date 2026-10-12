@@ -9,6 +9,7 @@
 - **[ChangeGuard AI](https://github.com/belimm01/changeguard-ai)** — advisory pull-request change-impact analyser. Deterministic rules for Python dependencies, OpenAPI, Avro and Kubernetes produce evidence-backed findings; a grounded LLM layer and an MCP server are in progress. Python 3.13, FastAPI, Pydantic, async SQLAlchemy, PostgreSQL, strict mypy.
 - **[Platform Blueprint](https://github.com/belimm01/platform-blueprint)** — reference internal developer platform: a team-facing service contract rendered into reviewable GitOps configuration, with Go, Kubernetes, Crossplane, Argo CD and Kyverno policy guardrails. Ships with ADRs, a security model and an operational runbook.
 - **[Relay](https://github.com/belimm01/relay)** — self-hosted webhook gateway with durable delivery, idempotency, bounded retries and replay. Java 21, Spring Boot, PostgreSQL, Vue 3.
+- **[Vigil](https://github.com/belimm01/vigil)** — synthetic monitoring product with multi-step journeys and incident state management. TypeScript, React, PostgreSQL, Kubernetes deployment artifacts.
 - **[Changelog Studio](https://github.com/belimm01/changelog-studio)** — release-note workflow with a typed domain core, REST API, React client, conventional-commit ingestion and CI.
 - **[Recap](https://github.com/belimm01/recap)** — developer-productivity CLI that turns GitLab and Jira activity into a paste-ready standup digest.
 
