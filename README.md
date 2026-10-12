@@ -1,39 +1,32 @@
 # Mykyta Belimenko
 
-**Senior Full-Stack Engineer** building reliable web products and distributed systems with Java, Node.js, TypeScript, React, and Vue.
+**Senior Software Engineer — backend, platform and AI.** I build Java/Spring Boot and Python/FastAPI services, Kubernetes platforms on AWS, and LLM applications with the Model Context Protocol. 10+ years in enterprise software, from architecture and API contracts to production releases.
 
-I work across architecture, backend and frontend implementation, delivery, and production operations. My platform-engineering background in AWS, Kubernetes, GitOps, observability, and developer self-service helps me build applications that remain operable after they ship. Professionally, I contribute to platform capabilities used by approximately 80 engineering teams.
+[LinkedIn](https://www.linkedin.com/in/mbelimenko/) · Prague, Czechia · Fully remote · EU citizen
 
-**Start here:** [ChangeGuard AI](https://github.com/belimm01/changeguard-ai) for Python, FastAPI, and evidence-backed PR analysis · [Relay](https://github.com/belimm01/relay) for Java, Spring Boot, Vue, and distributed delivery · [Vigil](https://github.com/belimm01/vigil) for TypeScript, React, monitoring, and incident workflows
+## Featured projects
 
-[LinkedIn](https://www.linkedin.com/in/mbelimenko/) · Prague, Czechia · Fully remote from Czechia
+- **[ChangeGuard AI](https://github.com/belimm01/changeguard-ai)** — advisory pull-request change-impact analyser. Deterministic rules for Python dependencies, OpenAPI, Avro and Kubernetes produce evidence-backed findings; a grounded LLM layer and an MCP server are in progress. Python 3.13, FastAPI, Pydantic, async SQLAlchemy, PostgreSQL, strict mypy.
+- **[Platform Blueprint](https://github.com/belimm01/platform-blueprint)** — reference internal developer platform: a team-facing service contract rendered into reviewable GitOps configuration, with Go, Kubernetes, Crossplane, Argo CD and Kyverno policy guardrails. Ships with ADRs, a security model and an operational runbook.
 
-## AI-enabled developer tooling
+## Professional highlights
 
-- **[ChangeGuard AI](https://github.com/belimm01/changeguard-ai)** — advisory pull-request change-impact analyzer. Deterministic rules (Python deps, OpenAPI, Avro, Kubernetes) produce evidence-backed findings; a grounded LLM layer with citation validation and an MCP server are in progress. Python 3.13, FastAPI, Pydantic, PostgreSQL, strict mypy.
+- Lead architect of a four-country product catalogue with 100,000+ products (Java/Spring Boot and Python/FastAPI services, Kafka, PostgreSQL, Kubernetes); cut a key aggregated-data API from 35 minutes to 40 seconds.
+- Built an internal LLM assistant — Claude models, Agno, a custom Python MCP server with per-user authorization, and a DeepEval regression suite in CI — used weekly by 200+ colleagues.
+- Built and operated an internal developer platform used by 93 engineering teams, cutting repository onboarding from days to under an hour.
 
-## Selected full-stack work
+## Stack
 
-- **[Relay](https://github.com/belimm01/relay)** — self-hosted webhook gateway with durable delivery, idempotency, bounded retries, replay, observability, Java 21, Spring Boot, PostgreSQL, and Vue 3.
-- **[Vigil](https://github.com/belimm01/vigil)** — synthetic monitoring product with incident state management, multi-step journeys, TypeScript, React, PostgreSQL, and Kubernetes deployment artifacts.
-- **[Changelog Studio](https://github.com/belimm01/changelog-studio)** — release-note product with a typed domain core, REST API, React client, conventional-commit ingestion, tests, and CI.
-
-## Platform engineering and developer experience
-
-- **[Platform Blueprint](https://github.com/belimm01/platform-blueprint)** — reference internal developer platform using Go, Kubernetes, Crossplane, Argo CD, GitOps, and policy guardrails.
-- **[Recap](https://github.com/belimm01/recap)** — developer-productivity CLI that turns GitLab and Jira activity into a structured standup digest.
-
-## Professional stack
-
-- **Backend:** Java 21, Spring Boot, Node.js, Express, REST, Kafka, Avro
-- **Frontend:** TypeScript, React, Vue 3, Vite, micro-frontends
-- **Data:** PostgreSQL, MongoDB, Redis, Elasticsearch
-- **Delivery and operations:** AWS, EKS, Kubernetes, Helm, GitLab CI/CD, Prometheus, OpenTelemetry
-- **Platform engineering:** Go, Crossplane, Argo CD, Tekton, GitOps
+- **Backend:** Java 21, Spring Boot, Python, FastAPI, Node.js/NestJS, REST, Kafka, Avro
+- **Platform:** Kubernetes, AWS, Helm, Argo CD, Crossplane, Go, GitLab CI/CD, GitHub Actions
+- **Data:** PostgreSQL, MySQL, Elasticsearch
+- **AI:** Claude models, Agno, Model Context Protocol, DeepEval
+- **Frontend:** TypeScript, React, Vue, micro-frontends
+- **Observability:** Prometheus, Grafana, Loki
 
 ## Engineering approach
 
-- Use GitHub Copilot, Claude Code, and OpenAI Codex for codebase exploration, implementation, testing, and review, while keeping architecture decisions and final verification my responsibility.
-- Keep domain behavior independent from transport and UI frameworks.
-- Treat retries, idempotency, authorization, observability, and rollback as product requirements.
-- Ship reviewable changes with executable tests, reproducible local workflows, and production-oriented deployment artifacts.
+- Use Claude Code and OpenAI Codex for exploration, implementation, testing and review, while keeping architecture decisions and final verification my responsibility.
+- Keep domain behaviour independent from transport and UI frameworks.
+- Treat retries, idempotency, authorization, observability and rollback as product requirements.
+- Ship reviewable changes with executable tests, reproducible local workflows and production-ready deployment artifacts.
