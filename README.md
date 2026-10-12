@@ -15,7 +15,7 @@
 
 ## Professional highlights
 
-- Lead architect of a four-country product catalogue with 100,000+ products (Java/Spring Boot and Python/FastAPI services, Kafka, PostgreSQL, Kubernetes); cut a key aggregated-data API from 35 minutes to 40 seconds.
+- Led architecture of a four-country product catalogue with 100,000+ products (Java/Spring Boot and Python/FastAPI services, Kafka, PostgreSQL, Kubernetes); cut a key aggregated-data API from 35 minutes to 40 seconds.
 - Built an internal LLM assistant — Claude models, Agno, a custom Python MCP server with per-user authorization, and a DeepEval regression suite in CI — used weekly by 200+ colleagues.
 - Built and operated an internal developer platform used by 93 engineering teams, cutting repository onboarding from days to under an hour.
 
